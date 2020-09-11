@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{558B565E-B597-4746-BBC4-270516AA546D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConcurrencyExercises/Program.cs">
+    <Files>
+      <File FileName="ConcurrencyExercises/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConcurrencyExercises" expanded="True">
+            <Node name="ConcurrencyExercises" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConcurrencyExercises FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
